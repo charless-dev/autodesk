@@ -1,0 +1,10 @@
+.table {
+    background-color: white;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.table_th {
+    padding: 5px 10px;
+    border-bottom: 1px solid #dee2e6
+}
